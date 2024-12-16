@@ -19,19 +19,6 @@ Welcome to my GitHub! My name is **Deepika Singari Velu** and I’m excited to c
 
 ---
 
-## 🚀 **Projects**
-
-### 🦾 **Personalized VLM for Safe Street Crossing**  
-- Enhanced **object detection** and **scene refinement** using **Llama3**, **Yolov8s TensorRT**, and optimized real-time traffic analysis for blind individuals.
-
-### 📚 **Student Event Tracking System**  
-- Designed an **LLM-based system** to aggregate and summarize event alerts from learning platforms like **Moodle** and **Piazza**.
-
-### 🛡️ **Camouflage Surveillance Robot**  
-- Engineered an **AI-powered defense robot** with **adaptive concealment technology** using ML algorithms like **Haar-Cascade** and **LBPH**.
-
----
-
 ## 🛠️ **Skills & Technologies**
 
 **Programming Languages:**  
