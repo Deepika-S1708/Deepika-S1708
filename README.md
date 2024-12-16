@@ -5,8 +5,8 @@ Welcome to my GitHub! My name is **Deepika Singari Velu** and I’m excited to c
 ---
 
 ## 🎓 **About Me**
-- 🌟 Master’s in **Computer Science** at the **University of Massachusetts Amherst**
-- 🛠️ Specializing in **Software Development**, **Machine Learning**, and **Natural Language Processing**
+- 🌟 I’m currently pursuing Master’s in **Computer Science** at the **University of Massachusetts Amherst**
+- 🛠️ I’m proficient in **Software Development**, **Machine Learning**, and **Natural Language Processing**
 - 💻 Former **Software Engineer** at **Tata Consultancy Services Ltd**, where I worked on cutting-edge software solutions and cloud engineering projects
 - 🔍 Passionate about building **innovative solutions** using **AI/ML** and advancing **accessibility** through technology
 
