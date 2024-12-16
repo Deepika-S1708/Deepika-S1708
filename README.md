@@ -19,6 +19,18 @@ Welcome to my GitHub! My name is **Deepika Singari Velu** and I’m excited to c
 
 ---
 
+## 🤝 Open for Collaboration 🚀  
+💡 I am open to **contributing** and collaborating on:  
+- **Newly innovated Large Language Model (LLM)** projects  
+- **Retrieval-Augmented Generation (RAG)** based innovative ideas  
+- **Artificial Intelligence** applications that solve real-world challenges  
+- **Cutting-edge technologies** and innovative solutions in **AI/ML**  
+- Exploring and experimenting with **emerging technologies** to push boundaries  
+
+If you are interested in collaborating, feel free to **reach out**! 🎯  
+
+---
+
 ## 🛠️ **Skills & Technologies**
 
 **Programming Languages:**  
